@@ -1,0 +1,1 @@
+So far, my favorite text editor has been VS Code. It has been the easiest to navigate of the editors introduced at this point in the course.
